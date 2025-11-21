@@ -1,0 +1,4 @@
+Hello world! 
+This is a new line. 
+Writing this in Python. 
+New log entryNew log entryNew log entryNew log entryNew log entry 
