@@ -1,0 +1,14 @@
+PRICING REPORT
+
+Product Name                    Base Price  Discount %Discount Amount Final Price
+---------------------------------------------------------------------------------
+Laptop Computer                     999.99       15.00      150.00      849.99
+Winter Jacket                       129.99       15.00       19.50      110.49
+Python Programming Book              49.99        5.00        2.50       47.49
+Coffee Maker                         79.99       14.00       11.20       68.79
+Wireless Headphones                 199.99       15.00       30.00      169.99
+
+SUMMARY
+Total Products: 5 
+Average Discount: 12.80%
+Total Discount Amount: $213.19
