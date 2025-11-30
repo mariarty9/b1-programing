@@ -1,0 +1,134 @@
+2025-11-30 19:58:43,901 - INFO - Beginning analysis of: server.log
+2025-11-30 19:58:43,903 - ERROR - File not found: server.log
+2025-11-30 20:07:24,267 - INFO - Beginning analysis of: example_log.txt
+2025-11-30 20:07:24,269 - INFO - FORBIDDEN: Forbidden: 192.168.1.44 -> /admin
+2025-11-30 20:07:24,270 - WARNING - SQL_INJECTION: SQL Injection: 88.23.91.14 -> /login?user=admin'--
+2025-11-30 20:07:24,271 - WARNING - SECURITY: Brute force: 10.0.0.15 - 3 attempts
+2025-11-30 20:07:24,272 - INFO - FORBIDDEN: Forbidden: 10.0.0.22 -> /etc/passwd
+2025-11-30 20:07:24,273 - WARNING - SQL_INJECTION: SQL Injection: 193.14.55.21 -> /products?id=4
+2025-11-30 20:07:24,274 - INFO - FORBIDDEN: Forbidden: 172.16.8.77 -> /root
+2025-11-30 20:07:24,275 - WARNING - SECURITY: Brute force: 10.0.0.15 - 4 attempts
+2025-11-30 20:07:24,276 - WARNING - SQL_INJECTION: SQL Injection: 66.92.13.5 -> /search?q=DROP
+2025-11-30 20:07:24,277 - INFO - FORBIDDEN: Forbidden: 212.88.99.18 -> /admin/config
+2025-11-30 20:07:24,278 - WARNING - SECURITY: Brute force: 172.20.10.5 - 3 attempts
+2025-11-30 20:07:24,279 - INFO - FORBIDDEN: Forbidden: 8.8.8.8 -> /private
+2025-11-30 20:07:24,279 - WARNING - SQL_INJECTION: SQL Injection: 77.54.33.10 -> /login?password=admin;--
+2025-11-30 20:07:24,281 - WARNING - SECURITY: Brute force: 172.20.10.5 - 4 attempts
+2025-11-30 20:07:24,281 - INFO - FORBIDDEN: Forbidden: 145.33.76.22 -> /hidden
+2025-11-30 20:07:24,283 - WARNING - SQL_INJECTION: SQL Injection: 201.22.11.1 -> /products?category=select
+2025-11-30 20:07:24,284 - INFO - FORBIDDEN: Forbidden: 33.12.44.10 -> /superuser
+2025-11-30 20:07:24,284 - WARNING - SECURITY: Brute force: 10.1.1.99 - 3 attempts
+2025-11-30 20:07:24,285 - WARNING - SQL_INJECTION: SQL Injection: 91.15.23.48 -> /items?filter=union
+2025-11-30 20:07:24,286 - INFO - FORBIDDEN: Forbidden: 100.100.100.10 -> /admin/backup
+2025-11-30 20:07:24,288 - WARNING - SECURITY: Brute force: 10.1.1.99 - 4 attempts
+2025-11-30 20:07:24,289 - WARNING - SQL_INJECTION: SQL Injection: 44.22.11.9 -> /login?return_to=--DROP
+2025-11-30 20:07:24,290 - INFO - FORBIDDEN: Forbidden: 10.20.30.40 -> /secure
+2025-11-30 20:07:24,291 - WARNING - SECURITY: Brute force: 192.168.1.15 - 3 attempts
+2025-11-30 20:07:24,292 - WARNING - SQL_INJECTION: SQL Injection: 201.8.77.9 -> /query?name=insert
+2025-11-30 20:07:24,292 - INFO - FORBIDDEN: Forbidden: 55.44.33.22 -> /hidden/console
+2025-11-30 20:07:24,294 - WARNING - SECURITY: Brute force: 192.168.1.15 - 4 attempts
+2025-11-30 20:07:24,295 - WARNING - SQL_INJECTION: SQL Injection: 88.77.66.55 -> /test?value=select
+2025-11-30 20:07:24,296 - INFO - FORBIDDEN: Forbidden: 9.9.9.9 -> /root/admin
+2025-11-30 20:07:24,296 - WARNING - SECURITY: Brute force: 192.168.2.22 - 3 attempts
+2025-11-30 20:07:24,297 - WARNING - SQL_INJECTION: SQL Injection: 155.22.33.44 -> /login?attempt=admin'
+2025-11-30 20:07:24,299 - INFO - FORBIDDEN: Forbidden: 22.33.44.55 -> /settings/system
+2025-11-30 20:07:24,299 - WARNING - SECURITY: Brute force: 192.168.2.22 - 4 attempts
+2025-11-30 20:07:24,300 - WARNING - SQL_INJECTION: SQL Injection: 99.88.77.66 -> /site?id=union
+2025-11-30 20:07:24,301 - INFO - FORBIDDEN: Forbidden: 111.111.111.111 -> /secure/config
+2025-11-30 20:07:24,301 - WARNING - SECURITY: Brute force: 172.30.50.25 - 3 attempts
+2025-11-30 20:07:24,302 - WARNING - SQL_INJECTION: SQL Injection: 233.12.55.9 -> /login?password=';DROP
+2025-11-30 20:07:24,303 - INFO - FORBIDDEN: Forbidden: 98.76.54.32 -> /private/system
+2025-11-30 20:07:24,304 - WARNING - SECURITY: Brute force: 172.30.50.25 - 4 attempts
+2025-11-30 20:07:24,305 - WARNING - SQL_INJECTION: SQL Injection: 46.29.10.1 -> /items?filter=union--
+2025-11-30 20:07:24,306 - INFO - FORBIDDEN: Forbidden: 123.45.67.89 -> /root/admin
+2025-11-30 20:07:24,307 - WARNING - SECURITY: Brute force: 172.30.99.100 - 3 attempts
+2025-11-30 20:07:24,307 - WARNING - SQL_INJECTION: SQL Injection: 44.10.21.76 -> /query?text=drop
+2025-11-30 20:07:24,308 - INFO - FORBIDDEN: Forbidden: 200.10.10.20 -> /admin/settings
+2025-11-30 20:07:24,309 - WARNING - SECURITY: Brute force: 172.30.99.100 - 4 attempts
+2025-11-30 20:07:24,310 - WARNING - SQL_INJECTION: SQL Injection: 177.88.99.100 -> /api?cmd=insert
+2025-11-30 20:07:24,311 - INFO - FORBIDDEN: Forbidden: 150.130.120.110 -> /root/files
+2025-11-30 20:07:24,312 - WARNING - SECURITY: Brute force: 192.168.100.50 - 3 attempts
+2025-11-30 20:07:24,313 - WARNING - SQL_INJECTION: SQL Injection: 144.33.55.10 -> /q?id=select
+2025-11-30 20:07:24,313 - INFO - FORBIDDEN: Forbidden: 10.10.10.10 -> /etc/shadow
+2025-11-30 20:07:24,315 - INFO - Progress: 50 lines processed
+2025-11-30 20:07:24,316 - WARNING - SECURITY: Brute force: 192.168.100.50 - 4 attempts
+2025-11-30 20:07:24,316 - WARNING - SQL_INJECTION: SQL Injection: 199.22.11.33 -> /test?cmd=union
+2025-11-30 20:07:24,317 - INFO - FORBIDDEN: Forbidden: 155.155.155.155 -> /hidden/key
+2025-11-30 20:07:24,318 - INFO - FORBIDDEN: Forbidden: 172.16.0.22 -> /root/private
+2025-11-30 20:07:24,318 - WARNING - SQL_INJECTION: SQL Injection: 88.22.11.33 -> /data?x=select
+2025-11-30 20:07:24,319 - WARNING - SECURITY: Brute force: 192.168.50.11 - 3 attempts
+2025-11-30 20:07:24,320 - INFO - FORBIDDEN: Forbidden: 90.12.33.44 -> /secure/settings
+2025-11-30 20:07:24,321 - WARNING - SQL_INJECTION: SQL Injection: 101.55.77.99 -> /filter?q=union
+2025-11-30 20:07:24,322 - WARNING - SECURITY: Brute force: 192.168.50.11 - 4 attempts
+2025-11-30 20:07:24,325 - INFO - FORBIDDEN: Forbidden: 200.200.200.200 -> /admin/root
+2025-11-30 20:07:24,327 - WARNING - SQL_INJECTION: SQL Injection: 170.88.12.13 -> /api?search=drop
+2025-11-30 20:07:24,328 - INFO - FORBIDDEN: Forbidden: 45.12.23.34 -> /root/bin
+2025-11-30 20:07:24,329 - INFO - Analysis completed: 68 total lines processed
+2025-11-30 20:07:24,331 - INFO - Summary report created: summary_report.txt
+2025-11-30 20:07:24,333 - INFO - Security report created: security_incidents.txt
+2025-11-30 20:11:30,330 - INFO - Beginning analysis of: example_log.txt
+2025-11-30 20:11:30,334 - INFO - FORBIDDEN: Forbidden: 192.168.1.44 -> /admin
+2025-11-30 20:11:30,336 - WARNING - SQL_INJECTION: SQL Injection: 88.23.91.14 -> /login?user=admin'--
+2025-11-30 20:11:30,337 - WARNING - SECURITY: Brute force: 10.0.0.15 - 3 attempts
+2025-11-30 20:11:30,339 - INFO - FORBIDDEN: Forbidden: 10.0.0.22 -> /etc/passwd
+2025-11-30 20:11:30,341 - WARNING - SQL_INJECTION: SQL Injection: 193.14.55.21 -> /products?id=4
+2025-11-30 20:11:30,342 - INFO - FORBIDDEN: Forbidden: 172.16.8.77 -> /root
+2025-11-30 20:11:30,343 - WARNING - SECURITY: Brute force: 10.0.0.15 - 4 attempts
+2025-11-30 20:11:30,344 - WARNING - SQL_INJECTION: SQL Injection: 66.92.13.5 -> /search?q=DROP
+2025-11-30 20:11:30,347 - INFO - FORBIDDEN: Forbidden: 212.88.99.18 -> /admin/config
+2025-11-30 20:11:30,348 - WARNING - SECURITY: Brute force: 172.20.10.5 - 3 attempts
+2025-11-30 20:11:30,350 - INFO - FORBIDDEN: Forbidden: 8.8.8.8 -> /private
+2025-11-30 20:11:30,352 - WARNING - SQL_INJECTION: SQL Injection: 77.54.33.10 -> /login?password=admin;--
+2025-11-30 20:11:30,353 - WARNING - SECURITY: Brute force: 172.20.10.5 - 4 attempts
+2025-11-30 20:11:30,354 - INFO - FORBIDDEN: Forbidden: 145.33.76.22 -> /hidden
+2025-11-30 20:11:30,356 - WARNING - SQL_INJECTION: SQL Injection: 201.22.11.1 -> /products?category=select
+2025-11-30 20:11:30,358 - INFO - FORBIDDEN: Forbidden: 33.12.44.10 -> /superuser
+2025-11-30 20:11:30,359 - WARNING - SECURITY: Brute force: 10.1.1.99 - 3 attempts
+2025-11-30 20:11:30,360 - WARNING - SQL_INJECTION: SQL Injection: 91.15.23.48 -> /items?filter=union
+2025-11-30 20:11:30,362 - INFO - FORBIDDEN: Forbidden: 100.100.100.10 -> /admin/backup
+2025-11-30 20:11:30,363 - WARNING - SECURITY: Brute force: 10.1.1.99 - 4 attempts
+2025-11-30 20:11:30,364 - WARNING - SQL_INJECTION: SQL Injection: 44.22.11.9 -> /login?return_to=--DROP
+2025-11-30 20:11:30,365 - INFO - FORBIDDEN: Forbidden: 10.20.30.40 -> /secure
+2025-11-30 20:11:30,366 - WARNING - SECURITY: Brute force: 192.168.1.15 - 3 attempts
+2025-11-30 20:11:30,367 - WARNING - SQL_INJECTION: SQL Injection: 201.8.77.9 -> /query?name=insert
+2025-11-30 20:11:30,371 - INFO - FORBIDDEN: Forbidden: 55.44.33.22 -> /hidden/console
+2025-11-30 20:11:30,373 - WARNING - SECURITY: Brute force: 192.168.1.15 - 4 attempts
+2025-11-30 20:11:30,374 - WARNING - SQL_INJECTION: SQL Injection: 88.77.66.55 -> /test?value=select
+2025-11-30 20:11:30,375 - INFO - FORBIDDEN: Forbidden: 9.9.9.9 -> /root/admin
+2025-11-30 20:11:30,379 - WARNING - SECURITY: Brute force: 192.168.2.22 - 3 attempts
+2025-11-30 20:11:30,382 - WARNING - SQL_INJECTION: SQL Injection: 155.22.33.44 -> /login?attempt=admin'
+2025-11-30 20:11:30,384 - INFO - FORBIDDEN: Forbidden: 22.33.44.55 -> /settings/system
+2025-11-30 20:11:30,386 - WARNING - SECURITY: Brute force: 192.168.2.22 - 4 attempts
+2025-11-30 20:11:30,388 - WARNING - SQL_INJECTION: SQL Injection: 99.88.77.66 -> /site?id=union
+2025-11-30 20:11:30,390 - INFO - FORBIDDEN: Forbidden: 111.111.111.111 -> /secure/config
+2025-11-30 20:11:30,391 - WARNING - SECURITY: Brute force: 172.30.50.25 - 3 attempts
+2025-11-30 20:11:30,396 - WARNING - SQL_INJECTION: SQL Injection: 233.12.55.9 -> /login?password=';DROP
+2025-11-30 20:11:30,398 - INFO - FORBIDDEN: Forbidden: 98.76.54.32 -> /private/system
+2025-11-30 20:11:30,399 - WARNING - SECURITY: Brute force: 172.30.50.25 - 4 attempts
+2025-11-30 20:11:30,400 - WARNING - SQL_INJECTION: SQL Injection: 46.29.10.1 -> /items?filter=union--
+2025-11-30 20:11:30,401 - INFO - FORBIDDEN: Forbidden: 123.45.67.89 -> /root/admin
+2025-11-30 20:11:30,401 - WARNING - SECURITY: Brute force: 172.30.99.100 - 3 attempts
+2025-11-30 20:11:30,402 - WARNING - SQL_INJECTION: SQL Injection: 44.10.21.76 -> /query?text=drop
+2025-11-30 20:11:30,405 - INFO - FORBIDDEN: Forbidden: 200.10.10.20 -> /admin/settings
+2025-11-30 20:11:30,408 - WARNING - SECURITY: Brute force: 172.30.99.100 - 4 attempts
+2025-11-30 20:11:30,409 - WARNING - SQL_INJECTION: SQL Injection: 177.88.99.100 -> /api?cmd=insert
+2025-11-30 20:11:30,410 - INFO - FORBIDDEN: Forbidden: 150.130.120.110 -> /root/files
+2025-11-30 20:11:30,411 - WARNING - SECURITY: Brute force: 192.168.100.50 - 3 attempts
+2025-11-30 20:11:30,412 - WARNING - SQL_INJECTION: SQL Injection: 144.33.55.10 -> /q?id=select
+2025-11-30 20:11:30,414 - INFO - FORBIDDEN: Forbidden: 10.10.10.10 -> /etc/shadow
+2025-11-30 20:11:30,416 - INFO - Progress: 50 lines processed
+2025-11-30 20:11:30,418 - WARNING - SECURITY: Brute force: 192.168.100.50 - 4 attempts
+2025-11-30 20:11:30,421 - WARNING - SQL_INJECTION: SQL Injection: 199.22.11.33 -> /test?cmd=union
+2025-11-30 20:11:30,422 - INFO - FORBIDDEN: Forbidden: 155.155.155.155 -> /hidden/key
+2025-11-30 20:11:30,423 - INFO - FORBIDDEN: Forbidden: 172.16.0.22 -> /root/private
+2025-11-30 20:11:30,424 - WARNING - SQL_INJECTION: SQL Injection: 88.22.11.33 -> /data?x=select
+2025-11-30 20:11:30,425 - WARNING - SECURITY: Brute force: 192.168.50.11 - 3 attempts
+2025-11-30 20:11:30,426 - INFO - FORBIDDEN: Forbidden: 90.12.33.44 -> /secure/settings
+2025-11-30 20:11:30,427 - WARNING - SQL_INJECTION: SQL Injection: 101.55.77.99 -> /filter?q=union
+2025-11-30 20:11:30,427 - WARNING - SECURITY: Brute force: 192.168.50.11 - 4 attempts
+2025-11-30 20:11:30,428 - INFO - FORBIDDEN: Forbidden: 200.200.200.200 -> /admin/root
+2025-11-30 20:11:30,429 - WARNING - SQL_INJECTION: SQL Injection: 170.88.12.13 -> /api?search=drop
+2025-11-30 20:11:30,430 - INFO - FORBIDDEN: Forbidden: 45.12.23.34 -> /root/bin
+2025-11-30 20:11:30,432 - INFO - Analysis completed: 68 total lines processed
+2025-11-30 20:11:30,443 - INFO - Summary report created: summary_report.txt
+2025-11-30 20:11:30,445 - INFO - Security report created: security_incidents.txt

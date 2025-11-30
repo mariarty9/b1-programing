@@ -1,0 +1,68 @@
+2025-11-20 12:01:01,112 - INFO - Starting analysis of server.log
+2025-11-20 12:01:01,201 - WARNING - Forbidden access attempt: 192.168.1.44 -> /admin
+2025-11-20 12:01:01,202 - WARNING - Potential SQL injection: 88.23.91.14 -> /login?user=admin'-- 
+2025-11-20 12:01:01,303 - WARNING - Brute force attempt from 10.0.0.15 - 3 failed attempts
+2025-11-20 12:01:01,401 - WARNING - Forbidden access attempt: 10.0.0.22 -> /etc/passwd
+2025-11-20 12:01:01,501 - WARNING - Potential SQL injection: 193.14.55.21 -> /products?id=4 UNION SELECT *
+2025-11-20 12:01:01,601 - WARNING - Forbidden access attempt: 172.16.8.77 -> /root
+2025-11-20 12:01:01,701 - WARNING - Brute force attempt from 10.0.0.15 - 4 failed attempts
+2025-11-20 12:01:01,801 - WARNING - Potential SQL injection: 66.92.13.5 -> /search?q=DROP TABLE users;
+2025-11-20 12:01:01,901 - WARNING - Forbidden access attempt: 212.88.99.18 -> /admin/config
+2025-11-20 12:01:02,001 - WARNING - Brute force attempt from 172.20.10.5 - 3 failed attempts
+2025-11-20 12:01:02,102 - WARNING - Forbidden access attempt: 8.8.8.8 -> /private
+2025-11-20 12:01:02,203 - WARNING - Potential SQL injection: 77.54.33.10 -> /login?password=admin;--
+2025-11-20 12:01:02,304 - WARNING - Brute force attempt from 172.20.10.5 - 4 failed attempts
+2025-11-20 12:01:02,405 - WARNING - Forbidden access attempt: 145.33.76.22 -> /hidden
+2025-11-20 12:01:02,506 - WARNING - Potential SQL injection: 201.22.11.1 -> /products?category=select * from
+2025-11-20 12:01:02,607 - WARNING - Forbidden access attempt: 33.12.44.10 -> /superuser
+2025-11-20 12:01:02,708 - WARNING - Brute force attempt from 10.1.1.99 - 3 failed attempts
+2025-11-20 12:01:02,809 - WARNING - Potential SQL injection: 91.15.23.48 -> /items?filter=union all select
+2025-11-20 12:01:02,910 - WARNING - Forbidden access attempt: 100.100.100.10 -> /admin/backup
+2025-11-20 12:01:03,011 - WARNING - Brute force attempt from 10.1.1.99 - 4 failed attempts
+2025-11-20 12:01:03,112 - WARNING - Potential SQL injection: 44.22.11.9 -> /login?return_to=--DROP
+2025-11-20 12:01:03,213 - WARNING - Forbidden access attempt: 10.20.30.40 -> /secure
+2025-11-20 12:01:03,314 - WARNING - Brute force attempt from 192.168.1.15 - 3 failed attempts
+2025-11-20 12:01:03,415 - WARNING - Potential SQL injection: 201.8.77.9 -> /query?name=insert into users
+2025-11-20 12:01:03,516 - WARNING - Forbidden access attempt: 55.44.33.22 -> /hidden/console
+2025-11-20 12:01:03,617 - WARNING - Brute force attempt from 192.168.1.15 - 4 failed attempts
+2025-11-20 12:01:03,718 - WARNING - Potential SQL injection: 88.77.66.55 -> /test?value=select
+2025-11-20 12:01:03,819 - WARNING - Forbidden access attempt: 9.9.9.9 -> /root/admin
+2025-11-20 12:01:03,920 - WARNING - Brute force attempt from 192.168.2.22 - 3 failed attempts
+2025-11-20 12:01:04,021 - WARNING - Potential SQL injection: 155.22.33.44 -> /login?attempt=admin' OR 1=1
+2025-11-20 12:01:04,122 - WARNING - Forbidden access attempt: 22.33.44.55 -> /settings/system
+2025-11-20 12:01:04,223 - WARNING - Brute force attempt from 192.168.2.22 - 4 failed attempts
+2025-11-20 12:01:04,324 - WARNING - Potential SQL injection: 99.88.77.66 -> /site?id=union
+2025-11-20 12:01:04,425 - WARNING - Forbidden access attempt: 111.111.111.111 -> /secure/config
+2025-11-20 12:01:04,526 - WARNING - Brute force attempt from 172.30.50.25 - 3 failed attempts
+2025-11-20 12:01:04,627 - WARNING - Potential SQL injection: 233.12.55.9 -> /login?password=';DROP
+2025-11-20 12:01:04,728 - WARNING - Forbidden access attempt: 98.76.54.32 -> /private/system
+2025-11-20 12:01:04,829 - WARNING - Brute force attempt from 172.30.50.25 - 4 failed attempts
+2025-11-20 12:01:04,930 - WARNING - Potential SQL injection: 46.29.10.1 -> /items?filter=union-- 
+2025-11-20 12:01:05,031 - WARNING - Forbidden access attempt: 123.45.67.89 -> /root/admin
+2025-11-20 12:01:05,132 - WARNING - Brute force attempt from 172.30.99.100 - 3 failed attempts
+2025-11-20 12:01:05,233 - WARNING - Potential SQL injection: 44.10.21.76 -> /query?text=drop table
+2025-11-20 12:01:05,334 - WARNING - Forbidden access attempt: 200.10.10.20 -> /admin/settings
+2025-11-20 12:01:05,435 - WARNING - Brute force attempt from 172.30.99.100 - 4 failed attempts
+2025-11-20 12:01:05,536 - WARNING - Potential SQL injection: 177.88.99.100 -> /api?cmd=insert into
+2025-11-20 12:01:05,637 - WARNING - Forbidden access attempt: 150.130.120.110 -> /root/files
+2025-11-20 12:01:05,738 - WARNING - Brute force attempt from 192.168.100.50 - 3 failed attempts
+2025-11-20 12:01:05,839 - WARNING - Potential SQL injection: 144.33.55.10 -> /q?id=select
+2025-11-20 12:01:05,940 - WARNING - Forbidden access attempt: 10.10.10.10 -> /etc/shadow
+2025-11-20 12:01:06,041 - WARNING - Brute force attempt from 192.168.100.50 - 4 failed attempts
+2025-11-20 12:01:06,142 - WARNING - Potential SQL injection: 199.22.11.33 -> /test?cmd=union select
+2025-11-20 12:01:06,243 - WARNING - Forbidden access attempt: 155.155.155.155 -> /hidden/key
+2025-11-20 12:01:06,344 - ERROR - Line 121: Error processing - invalid literal for int() with base 10: '-'
+2025-11-20 12:01:06,445 - ERROR - Line 122: Error processing - not enough values to unpack
+2025-11-20 12:01:06,546 - ERROR - Line 123: Error processing - unexpected end of string
+2025-11-20 12:01:06,647 - ERROR - Line 124: Error processing - list index out of range
+2025-11-20 12:01:06,748 - ERROR - Line 125: Error processing - could not convert string to float: 'abc'
+2025-11-20 12:01:06,849 - WARNING - Forbidden access attempt: 172.16.0.22 -> /root/private
+2025-11-20 12:01:06,950 - WARNING - Potential SQL injection: 88.22.11.33 -> /data?x=select 1
+2025-11-20 12:01:07,051 - WARNING - Brute force attempt from 192.168.50.11 - 3 failed attempts
+2025-11-20 12:01:07,152 - WARNING - Forbidden access attempt: 90.12.33.44 -> /secure/settings
+2025-11-20 12:01:07,253 - WARNING - Potential SQL injection: 101.55.77.99 -> /filter?q=union select
+2025-11-20 12:01:07,354 - WARNING - Brute force attempt from 192.168.50.11 - 4 failed attempts
+2025-11-20 12:01:07,455 - WARNING - Forbidden access attempt: 200.200.200.200 -> /admin/root
+2025-11-20 12:01:07,556 - WARNING - Potential SQL injection: 170.88.12.13 -> /api?search=drop database
+2025-11-20 12:01:07,657 - WARNING - Forbidden access attempt: 45.12.23.34 -> /root/bin
+2025-11-20 12:01:07,758 - INFO - Analysis complete: 250 requests processed
