@@ -1,2 +1,2 @@
-# b1-programing
+# b1-programming
 Python lab exercises for business applications
