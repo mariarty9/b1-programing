@@ -6,11 +6,11 @@
       "longitude": 16.3738
     },
     "current_weather": {
-      "temperature": 1.5,
-      "windspeed": 18.0,
+      "temperature": 1.3,
+      "windspeed": 18.8,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -166,11 +166,11 @@
       "longitude": 4.3517
     },
     "current_weather": {
-      "temperature": 0.9,
-      "windspeed": 18.7,
+      "temperature": 1.0,
+      "windspeed": 18.4,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -330,7 +330,7 @@
       "windspeed": 6.5,
       "weathercode": 45,
       "condition": "Fog",
-      "time": "2026-01-04T01:15"
+      "time": "2026-01-04T01:30"
     },
     "hourly_forecast": [
       {
@@ -486,11 +486,11 @@
       "longitude": 15.9819
     },
     "current_weather": {
-      "temperature": 2.2,
+      "temperature": 2.0,
       "windspeed": 5.4,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -646,11 +646,11 @@
       "longitude": 33.3823
     },
     "current_weather": {
-      "temperature": 7.6,
-      "windspeed": 2.7,
+      "temperature": 7.3,
+      "windspeed": 2.6,
       "weathercode": 1,
       "condition": "Mainly clear",
-      "time": "2026-01-04T01:15"
+      "time": "2026-01-04T01:30"
     },
     "hourly_forecast": [
       {
@@ -807,10 +807,10 @@
     },
     "current_weather": {
       "temperature": -1.0,
-      "windspeed": 16.7,
+      "windspeed": 17.2,
       "weathercode": 1,
       "condition": "Mainly clear",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -966,11 +966,11 @@
       "longitude": 12.5683
     },
     "current_weather": {
-      "temperature": -2.5,
-      "windspeed": 8.3,
-      "weathercode": 2,
-      "condition": "Partly cloudy",
-      "time": "2026-01-04T00:15"
+      "temperature": -2.6,
+      "windspeed": 8.6,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -1126,11 +1126,11 @@
       "longitude": 24.7536
     },
     "current_weather": {
-      "temperature": -1.4,
-      "windspeed": 11.2,
+      "temperature": -1.3,
+      "windspeed": 11.9,
       "weathercode": 73,
       "condition": "Moderate snow fall",
-      "time": "2026-01-04T01:15"
+      "time": "2026-01-04T01:30"
     },
     "hourly_forecast": [
       {
@@ -1287,10 +1287,10 @@
     },
     "current_weather": {
       "temperature": -8.6,
-      "windspeed": 21.2,
+      "windspeed": 20.9,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T01:15"
+      "time": "2026-01-04T01:30"
     },
     "hourly_forecast": [
       {
@@ -1447,10 +1447,10 @@
     },
     "current_weather": {
       "temperature": 0.6,
-      "windspeed": 4.3,
+      "windspeed": 4.1,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -1607,10 +1607,10 @@
     },
     "current_weather": {
       "temperature": -0.1,
-      "windspeed": 21.3,
+      "windspeed": 23.1,
       "weathercode": 85,
       "condition": "Slight snow showers",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -1770,7 +1770,7 @@
       "windspeed": 4.0,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T01:15"
+      "time": "2026-01-04T01:30"
     },
     "hourly_forecast": [
       {
@@ -1926,11 +1926,11 @@
       "longitude": 19.0402
     },
     "current_weather": {
-      "temperature": 1.2,
+      "temperature": 1.1,
       "windspeed": 4.0,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -2086,11 +2086,11 @@
       "longitude": -6.2603
     },
     "current_weather": {
-      "temperature": -0.2,
-      "windspeed": 15.5,
+      "temperature": -0.4,
+      "windspeed": 15.8,
       "weathercode": 0,
       "condition": "Clear sky",
-      "time": "2026-01-03T23:15"
+      "time": "2026-01-03T23:30"
     },
     "hourly_forecast": [
       {
@@ -2246,11 +2246,11 @@
       "longitude": 12.4964
     },
     "current_weather": {
-      "temperature": 12.7,
-      "windspeed": 7.2,
+      "temperature": 12.8,
+      "windspeed": 7.6,
       "weathercode": 80,
       "condition": "Slight rain showers",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -2406,11 +2406,11 @@
       "longitude": 24.1052
     },
     "current_weather": {
-      "temperature": -0.4,
-      "windspeed": 18.7,
+      "temperature": -0.5,
+      "windspeed": 19.1,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T01:15"
+      "time": "2026-01-04T01:30"
     },
     "hourly_forecast": [
       {
@@ -2566,11 +2566,11 @@
       "longitude": 25.2797
     },
     "current_weather": {
-      "temperature": -2.2,
+      "temperature": -2.3,
       "windspeed": 13.7,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T01:15"
+      "time": "2026-01-04T01:30"
     },
     "hourly_forecast": [
       {
@@ -2730,7 +2730,7 @@
       "windspeed": 10.4,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -2886,11 +2886,11 @@
       "longitude": 14.5146
     },
     "current_weather": {
-      "temperature": 16.4,
-      "windspeed": 12.9,
+      "temperature": 16.3,
+      "windspeed": 12.5,
       "weathercode": 0,
       "condition": "Clear sky",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -3046,11 +3046,11 @@
       "longitude": 4.9041
     },
     "current_weather": {
-      "temperature": 2.6,
-      "windspeed": 9.7,
+      "temperature": 2.7,
+      "windspeed": 10.4,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -3210,7 +3210,7 @@
       "windspeed": 16.2,
       "weathercode": 0,
       "condition": "Clear sky",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -3367,10 +3367,10 @@
     },
     "current_weather": {
       "temperature": 13.2,
-      "windspeed": 12.5,
+      "windspeed": 13.0,
       "weathercode": 80,
       "condition": "Slight rain showers",
-      "time": "2026-01-03T23:15"
+      "time": "2026-01-03T23:30"
     },
     "hourly_forecast": [
       {
@@ -3527,10 +3527,10 @@
     },
     "current_weather": {
       "temperature": 1.8,
-      "windspeed": 0.4,
+      "windspeed": 1.3,
       "weathercode": 45,
       "condition": "Fog",
-      "time": "2026-01-04T01:15"
+      "time": "2026-01-04T01:30"
     },
     "hourly_forecast": [
       {
@@ -3687,10 +3687,10 @@
     },
     "current_weather": {
       "temperature": 0.6,
-      "windspeed": 4.7,
+      "windspeed": 4.3,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -3847,10 +3847,10 @@
     },
     "current_weather": {
       "temperature": 0.4,
-      "windspeed": 3.5,
+      "windspeed": 3.8,
       "weathercode": 77,
       "condition": "Snow grains",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -4006,11 +4006,11 @@
       "longitude": -3.7038
     },
     "current_weather": {
-      "temperature": 7.4,
-      "windspeed": 3.4,
+      "temperature": 7.2,
+      "windspeed": 3.2,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
@@ -4170,7 +4170,7 @@
       "windspeed": 22.0,
       "weathercode": 3,
       "condition": "Overcast",
-      "time": "2026-01-04T00:15"
+      "time": "2026-01-04T00:30"
     },
     "hourly_forecast": [
       {
