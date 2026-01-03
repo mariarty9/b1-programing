@@ -1,0 +1,4322 @@
+{
+  "Vienna": {
+    "country": "Austria",
+    "coordinate": {
+      "latitude": 48.2082,
+      "longitude": 16.3738
+    },
+    "current_weather": {
+      "temperature": 1.5,
+      "windspeed": 18.0,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 1.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 1.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 0.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 0.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 0.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": -0.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": -0.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -0.7,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -0.8,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -0.6,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": 0.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 0.9,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 1.5,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 2.0,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 2.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 2.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 1.7,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 1.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 0.7,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 0.4,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 0.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -0.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -0.5,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -0.7,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      }
+    ]
+  },
+  "Brussels": {
+    "country": "Belgium",
+    "coordinate": {
+      "latitude": 50.8503,
+      "longitude": 4.3517
+    },
+    "current_weather": {
+      "temperature": 0.9,
+      "windspeed": 18.7,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 0.8,
+        "precipitation_probability": 35,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 1.2,
+        "precipitation_probability": 25,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 1.5,
+        "precipitation_probability": 16,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 1.4,
+        "precipitation_probability": 8,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 1.4,
+        "precipitation_probability": 2,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 0.5,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 0.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -0.4,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -0.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -0.8,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -0.6,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 0.4,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 1.4,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 2.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 2.3,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 2.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 1.8,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 1.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 0.5,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": -0.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": -0.5,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -0.8,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -1.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -1.4,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      }
+    ]
+  },
+  "Sofia": {
+    "country": "Bulgaria",
+    "coordinate": {
+      "latitude": 42.6977,
+      "longitude": 23.3219
+    },
+    "current_weather": {
+      "temperature": 4.7,
+      "windspeed": 6.5,
+      "weathercode": 45,
+      "condition": "Fog",
+      "time": "2026-01-04T01:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 4.5,
+        "precipitation_probability": 25,
+        "weathercode": 45
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 4.6,
+        "precipitation_probability": 8,
+        "weathercode": 45
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 4.8,
+        "precipitation_probability": 13,
+        "weathercode": 45
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 4.8,
+        "precipitation_probability": 8,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 4.7,
+        "precipitation_probability": 3,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 5.3,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 5.8,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": 6.7,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": 6.5,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": 7.6,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": 9.4,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 11.6,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 13.1,
+        "precipitation_probability": 3,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 14.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 14.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 14.3,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 13.9,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 13.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 12.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 12.5,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 12.4,
+        "precipitation_probability": 5,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": 11.8,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": 9.7,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": 9.5,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      }
+    ]
+  },
+  "Zagreb": {
+    "country": "Croatia",
+    "coordinate": {
+      "latitude": 45.815,
+      "longitude": 15.9819
+    },
+    "current_weather": {
+      "temperature": 2.2,
+      "windspeed": 5.4,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 2.3,
+        "precipitation_probability": 5,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 1.7,
+        "precipitation_probability": 10,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 1.3,
+        "precipitation_probability": 33,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 0.7,
+        "precipitation_probability": 63,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 0.6,
+        "precipitation_probability": 88,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 0.8,
+        "precipitation_probability": 95,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 1.1,
+        "precipitation_probability": 70,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": 0.6,
+        "precipitation_probability": 43,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": 0.5,
+        "precipitation_probability": 25,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": 0.6,
+        "precipitation_probability": 13,
+        "weathercode": 77
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": 1.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 1.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 1.9,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 2.2,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 2.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 2.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 2.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 2.0,
+        "precipitation_probability": 5,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 1.3,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 0.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 0.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": 0.3,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": 0.3,
+        "precipitation_probability": 5,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": 0.3,
+        "precipitation_probability": 5,
+        "weathercode": 3
+      }
+    ]
+  },
+  "Nicosia": {
+    "country": "Cyprus",
+    "coordinate": {
+      "latitude": 35.1856,
+      "longitude": 33.3823
+    },
+    "current_weather": {
+      "temperature": 7.6,
+      "windspeed": 2.7,
+      "weathercode": 1,
+      "condition": "Mainly clear",
+      "time": "2026-01-04T01:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 8.9,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 7.8,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 6.8,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 6.2,
+        "precipitation_probability": 0,
+        "weathercode": 45
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 5.6,
+        "precipitation_probability": 0,
+        "weathercode": 45
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 5.3,
+        "precipitation_probability": 0,
+        "weathercode": 45
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 5.1,
+        "precipitation_probability": 0,
+        "weathercode": 45
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": 4.8,
+        "precipitation_probability": 0,
+        "weathercode": 45
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": 5.3,
+        "precipitation_probability": 0,
+        "weathercode": 45
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": 8.0,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": 11.9,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 14.0,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 15.2,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 15.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 15.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 14.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 13.7,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 12.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 11.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 10.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 9.5,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": 8.9,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": 8.4,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": 7.8,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      }
+    ]
+  },
+  "Prague": {
+    "country": "Czechia",
+    "coordinate": {
+      "latitude": 50.0755,
+      "longitude": 14.4378
+    },
+    "current_weather": {
+      "temperature": -1.0,
+      "windspeed": 16.7,
+      "weathercode": 1,
+      "condition": "Mainly clear",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": -1.0,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": -1.1,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": -1.2,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": -1.3,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": -1.4,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": -1.6,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": -1.7,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -1.8,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -1.8,
+        "precipitation_probability": 3,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -1.6,
+        "precipitation_probability": 3,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -1.2,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": -0.7,
+        "precipitation_probability": 3,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": -0.2,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 0.3,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 0.4,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 0.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 0.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": -0.2,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": -0.6,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": -1.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": -1.5,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -1.7,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -2.1,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -2.4,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      }
+    ]
+  },
+  "Copenhagen": {
+    "country": "Denmark",
+    "coordinate": {
+      "latitude": 55.6761,
+      "longitude": 12.5683
+    },
+    "current_weather": {
+      "temperature": -2.5,
+      "windspeed": 8.3,
+      "weathercode": 2,
+      "condition": "Partly cloudy",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": -2.5,
+        "precipitation_probability": 12,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": -2.6,
+        "precipitation_probability": 10,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": -2.4,
+        "precipitation_probability": 9,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": -2.2,
+        "precipitation_probability": 9,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": -2.1,
+        "precipitation_probability": 12,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": -2.2,
+        "precipitation_probability": 22,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": -2.1,
+        "precipitation_probability": 36,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -1.7,
+        "precipitation_probability": 45,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -1.7,
+        "precipitation_probability": 44,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -1.6,
+        "precipitation_probability": 38,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -1.3,
+        "precipitation_probability": 33,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": -1.0,
+        "precipitation_probability": 33,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": -0.7,
+        "precipitation_probability": 35,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": -0.4,
+        "precipitation_probability": 35,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": -0.4,
+        "precipitation_probability": 31,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": -0.3,
+        "precipitation_probability": 24,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": -0.4,
+        "precipitation_probability": 20,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": -0.6,
+        "precipitation_probability": 20,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": -0.9,
+        "precipitation_probability": 21,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": -1.6,
+        "precipitation_probability": 22,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": -1.8,
+        "precipitation_probability": 21,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -2.4,
+        "precipitation_probability": 19,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -3.1,
+        "precipitation_probability": 16,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -3.5,
+        "precipitation_probability": 12,
+        "weathercode": 1
+      }
+    ]
+  },
+  "Tallinn": {
+    "country": "Estonia",
+    "coordinate": {
+      "latitude": 59.437,
+      "longitude": 24.7536
+    },
+    "current_weather": {
+      "temperature": -1.4,
+      "windspeed": 11.2,
+      "weathercode": 73,
+      "condition": "Moderate snow fall",
+      "time": "2026-01-04T01:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": -1.6,
+        "precipitation_probability": 12,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": -1.5,
+        "precipitation_probability": 16,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": -1.1,
+        "precipitation_probability": 20,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": -1.1,
+        "precipitation_probability": 19,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": -1.5,
+        "precipitation_probability": 17,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": -1.7,
+        "precipitation_probability": 16,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": -1.8,
+        "precipitation_probability": 19,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -1.8,
+        "precipitation_probability": 23,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -1.8,
+        "precipitation_probability": 24,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -1.8,
+        "precipitation_probability": 18,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -1.7,
+        "precipitation_probability": 10,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": -1.7,
+        "precipitation_probability": 6,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": -1.9,
+        "precipitation_probability": 12,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": -1.9,
+        "precipitation_probability": 23,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": -1.9,
+        "precipitation_probability": 31,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": -2.0,
+        "precipitation_probability": 30,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": -2.2,
+        "precipitation_probability": 25,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": -2.4,
+        "precipitation_probability": 25,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": -2.5,
+        "precipitation_probability": 34,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": -2.7,
+        "precipitation_probability": 47,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": -2.7,
+        "precipitation_probability": 55,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -3.0,
+        "precipitation_probability": 52,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -3.2,
+        "precipitation_probability": 43,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -3.5,
+        "precipitation_probability": 35,
+        "weathercode": 73
+      }
+    ]
+  },
+  "Helsinki": {
+    "country": "Finland",
+    "coordinate": {
+      "latitude": 60.1695,
+      "longitude": 24.9354
+    },
+    "current_weather": {
+      "temperature": -8.6,
+      "windspeed": 21.2,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T01:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": -8.3,
+        "precipitation_probability": 4,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": -8.5,
+        "precipitation_probability": 2,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": -8.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": -8.9,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": -9.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": -9.3,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": -9.5,
+        "precipitation_probability": 0,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -9.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -9.6,
+        "precipitation_probability": 0,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -9.8,
+        "precipitation_probability": 0,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -10.1,
+        "precipitation_probability": 1,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": -10.2,
+        "precipitation_probability": 2,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": -10.2,
+        "precipitation_probability": 3,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": -10.1,
+        "precipitation_probability": 4,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": -10.1,
+        "precipitation_probability": 6,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": -10.1,
+        "precipitation_probability": 8,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": -10.2,
+        "precipitation_probability": 10,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": -10.3,
+        "precipitation_probability": 12,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": -10.3,
+        "precipitation_probability": 15,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": -10.5,
+        "precipitation_probability": 17,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": -10.7,
+        "precipitation_probability": 18,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -10.9,
+        "precipitation_probability": 16,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -11.0,
+        "precipitation_probability": 13,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -10.9,
+        "precipitation_probability": 10,
+        "weathercode": 71
+      }
+    ]
+  },
+  "Paris": {
+    "country": "France",
+    "coordinate": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    "current_weather": {
+      "temperature": 0.6,
+      "windspeed": 4.3,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 0.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 0.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 0.6,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 0.4,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 0.2,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 0.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 0.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -0.1,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -0.1,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -0.3,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -0.3,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 0.4,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 1.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 2.0,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 2.8,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 3.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 3.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 2.5,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 2.0,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 1.4,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 0.8,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": 0.4,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": 0.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -0.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      }
+    ]
+  },
+  "Berlin": {
+    "country": "Germany",
+    "coordinate": {
+      "latitude": 52.52,
+      "longitude": 13.405
+    },
+    "current_weather": {
+      "temperature": -0.1,
+      "windspeed": 21.3,
+      "weathercode": 85,
+      "condition": "Slight snow showers",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": -0.1,
+        "precipitation_probability": 90,
+        "weathercode": 85
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 0.0,
+        "precipitation_probability": 90,
+        "weathercode": 85
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": -1.5,
+        "precipitation_probability": 65,
+        "weathercode": 85
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": -2.3,
+        "precipitation_probability": 20,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": -2.5,
+        "precipitation_probability": 8,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": -3.0,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": -3.1,
+        "precipitation_probability": 13,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -3.0,
+        "precipitation_probability": 10,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -2.5,
+        "precipitation_probability": 8,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -2.5,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -2.2,
+        "precipitation_probability": 3,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": -1.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": -0.8,
+        "precipitation_probability": 3,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": -0.2,
+        "precipitation_probability": 8,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 0.1,
+        "precipitation_probability": 8,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 0.1,
+        "precipitation_probability": 10,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": -0.0,
+        "precipitation_probability": 8,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": -0.3,
+        "precipitation_probability": 10,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": -0.2,
+        "precipitation_probability": 20,
+        "weathercode": 85
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": -0.1,
+        "precipitation_probability": 18,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": -0.1,
+        "precipitation_probability": 15,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -0.3,
+        "precipitation_probability": 20,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -0.4,
+        "precipitation_probability": 10,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -0.5,
+        "precipitation_probability": 20,
+        "weathercode": 3
+      }
+    ]
+  },
+  "Athens": {
+    "country": "Greece",
+    "coordinate": {
+      "latitude": 37.9838,
+      "longitude": 23.7275
+    },
+    "current_weather": {
+      "temperature": 13.6,
+      "windspeed": 4.0,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T01:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 14.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 13.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 13.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 13.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 13.3,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 13.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 13.9,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": 14.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": 14.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": 14.8,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": 15.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 16.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 17.2,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 17.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 17.3,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 17.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 16.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 15.8,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 15.3,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 15.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 14.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": 14.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": 14.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": 14.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      }
+    ]
+  },
+  "Budapest": {
+    "country": "Hungary",
+    "coordinate": {
+      "latitude": 47.4979,
+      "longitude": 19.0402
+    },
+    "current_weather": {
+      "temperature": 1.2,
+      "windspeed": 4.0,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 1.2,
+        "precipitation_probability": 15,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 1.1,
+        "precipitation_probability": 27,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 1.2,
+        "precipitation_probability": 48,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 1.3,
+        "precipitation_probability": 74,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 1.6,
+        "precipitation_probability": 86,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 1.1,
+        "precipitation_probability": 75,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 1.7,
+        "precipitation_probability": 52,
+        "weathercode": 51
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": 2.0,
+        "precipitation_probability": 31,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": 1.3,
+        "precipitation_probability": 18,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": 1.2,
+        "precipitation_probability": 9,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": 1.4,
+        "precipitation_probability": 2,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 1.7,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 2.0,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 2.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 2.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 2.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 1.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 1.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 0.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 0.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 0.2,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -0.2,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -0.6,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -1.1,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      }
+    ]
+  },
+  "Dublin": {
+    "country": "Ireland",
+    "coordinate": {
+      "latitude": 53.3498,
+      "longitude": -6.2603
+    },
+    "current_weather": {
+      "temperature": -0.2,
+      "windspeed": 15.5,
+      "weathercode": 0,
+      "condition": "Clear sky",
+      "time": "2026-01-03T23:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-03T00:00",
+        "temperature": 1.4,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T01:00",
+        "temperature": 1.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T02:00",
+        "temperature": 1.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T03:00",
+        "temperature": 0.9,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T04:00",
+        "temperature": 0.6,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T05:00",
+        "temperature": 0.7,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T06:00",
+        "temperature": 0.8,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T07:00",
+        "temperature": 0.8,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T08:00",
+        "temperature": 0.8,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T09:00",
+        "temperature": 0.7,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T10:00",
+        "temperature": 1.5,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T11:00",
+        "temperature": 2.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T12:00",
+        "temperature": 2.8,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T13:00",
+        "temperature": 3.0,
+        "precipitation_probability": 2,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T14:00",
+        "temperature": 3.3,
+        "precipitation_probability": 5,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T15:00",
+        "temperature": 3.2,
+        "precipitation_probability": 6,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T16:00",
+        "temperature": 2.8,
+        "precipitation_probability": 5,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T17:00",
+        "temperature": 1.9,
+        "precipitation_probability": 2,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T18:00",
+        "temperature": 1.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T19:00",
+        "temperature": 0.8,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T20:00",
+        "temperature": 0.7,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T21:00",
+        "temperature": 0.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T22:00",
+        "temperature": 0.0,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-03T23:00",
+        "temperature": -0.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      }
+    ]
+  },
+  "Rome": {
+    "country": "Italy",
+    "coordinate": {
+      "latitude": 41.9028,
+      "longitude": 12.4964
+    },
+    "current_weather": {
+      "temperature": 12.7,
+      "windspeed": 7.2,
+      "weathercode": 80,
+      "condition": "Slight rain showers",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 12.7,
+        "precipitation_probability": 43,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 12.8,
+        "precipitation_probability": 43,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 12.9,
+        "precipitation_probability": 45,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 13.0,
+        "precipitation_probability": 78,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 12.9,
+        "precipitation_probability": 88,
+        "weathercode": 95
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 12.8,
+        "precipitation_probability": 95,
+        "weathercode": 95
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 12.3,
+        "precipitation_probability": 98,
+        "weathercode": 95
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": 12.3,
+        "precipitation_probability": 98,
+        "weathercode": 95
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": 12.4,
+        "precipitation_probability": 93,
+        "weathercode": 95
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": 12.6,
+        "precipitation_probability": 83,
+        "weathercode": 95
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": 13.0,
+        "precipitation_probability": 88,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 13.5,
+        "precipitation_probability": 93,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 13.4,
+        "precipitation_probability": 93,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 13.4,
+        "precipitation_probability": 95,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 13.5,
+        "precipitation_probability": 100,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 13.7,
+        "precipitation_probability": 100,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 13.3,
+        "precipitation_probability": 98,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 12.9,
+        "precipitation_probability": 98,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 12.5,
+        "precipitation_probability": 100,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 12.2,
+        "precipitation_probability": 98,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 11.9,
+        "precipitation_probability": 90,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": 11.6,
+        "precipitation_probability": 95,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": 11.5,
+        "precipitation_probability": 90,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": 11.4,
+        "precipitation_probability": 85,
+        "weathercode": 61
+      }
+    ]
+  },
+  "Riga": {
+    "country": "Latvia",
+    "coordinate": {
+      "latitude": 56.9496,
+      "longitude": 24.1052
+    },
+    "current_weather": {
+      "temperature": -0.4,
+      "windspeed": 18.7,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T01:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": -0.3,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": -0.4,
+        "precipitation_probability": 1,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": -0.5,
+        "precipitation_probability": 2,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": -0.9,
+        "precipitation_probability": 3,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": -1.4,
+        "precipitation_probability": 5,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": -1.7,
+        "precipitation_probability": 8,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": -2.4,
+        "precipitation_probability": 11,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -2.8,
+        "precipitation_probability": 15,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -2.9,
+        "precipitation_probability": 20,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -3.0,
+        "precipitation_probability": 28,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -2.9,
+        "precipitation_probability": 38,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": -2.7,
+        "precipitation_probability": 41,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": -2.3,
+        "precipitation_probability": 34,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": -1.8,
+        "precipitation_probability": 20,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": -1.4,
+        "precipitation_probability": 10,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": -1.4,
+        "precipitation_probability": 7,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": -1.7,
+        "precipitation_probability": 6,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": -1.8,
+        "precipitation_probability": 6,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": -1.8,
+        "precipitation_probability": 4,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": -2.2,
+        "precipitation_probability": 3,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": -2.2,
+        "precipitation_probability": 2,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -2.5,
+        "precipitation_probability": 2,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -2.7,
+        "precipitation_probability": 4,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -3.0,
+        "precipitation_probability": 4,
+        "weathercode": 3
+      }
+    ]
+  },
+  "Vilnius": {
+    "country": "Lithuania",
+    "coordinate": {
+      "latitude": 54.6872,
+      "longitude": 25.2797
+    },
+    "current_weather": {
+      "temperature": -2.2,
+      "windspeed": 13.7,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T01:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": -1.6,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": -2.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": -2.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": -3.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": -3.4,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": -3.5,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": -3.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -2.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -1.9,
+        "precipitation_probability": 2,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -1.4,
+        "precipitation_probability": 6,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -0.7,
+        "precipitation_probability": 11,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": -0.5,
+        "precipitation_probability": 16,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": -0.6,
+        "precipitation_probability": 18,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": -0.8,
+        "precipitation_probability": 18,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": -0.8,
+        "precipitation_probability": 22,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": -0.7,
+        "precipitation_probability": 33,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": -0.9,
+        "precipitation_probability": 47,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": -1.0,
+        "precipitation_probability": 57,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": -1.1,
+        "precipitation_probability": 58,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": -1.6,
+        "precipitation_probability": 53,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": -1.5,
+        "precipitation_probability": 49,
+        "weathercode": 73
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -1.5,
+        "precipitation_probability": 47,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -1.5,
+        "precipitation_probability": 44,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -1.5,
+        "precipitation_probability": 41,
+        "weathercode": 71
+      }
+    ]
+  },
+  "Luxembourg": {
+    "country": "Luxembourg",
+    "coordinate": {
+      "latitude": 49.6116,
+      "longitude": 6.1319
+    },
+    "current_weather": {
+      "temperature": -2.6,
+      "windspeed": 10.4,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": -2.6,
+        "precipitation_probability": 5,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": -2.5,
+        "precipitation_probability": 4,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": -2.2,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": -2.3,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": -2.5,
+        "precipitation_probability": 2,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": -2.3,
+        "precipitation_probability": 1,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": -2.6,
+        "precipitation_probability": 1,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -1.8,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -2.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -2.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -1.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": -1.3,
+        "precipitation_probability": 0,
+        "weathercode": 51
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": -1.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": -1.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": -0.9,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": -0.7,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": -0.8,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": -1.7,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": -2.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": -3.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": -4.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -4.9,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -5.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -5.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      }
+    ]
+  },
+  "Valletta": {
+    "country": "Malta",
+    "coordinate": {
+      "latitude": 35.8989,
+      "longitude": 14.5146
+    },
+    "current_weather": {
+      "temperature": 16.4,
+      "windspeed": 12.9,
+      "weathercode": 0,
+      "condition": "Clear sky",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 16.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 16.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 16.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 16.2,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 16.4,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 16.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 16.3,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": 16.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": 16.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": 17.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": 18.8,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 19.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 19.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 18.9,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 18.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 18.2,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 17.8,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 17.3,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 16.9,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 16.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 16.8,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": 16.9,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": 17.2,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": 17.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      }
+    ]
+  },
+  "Amsterdam": {
+    "country": "Netherlands",
+    "coordinate": {
+      "latitude": 52.3676,
+      "longitude": 4.9041
+    },
+    "current_weather": {
+      "temperature": 2.6,
+      "windspeed": 9.7,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 2.5,
+        "precipitation_probability": 78,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 3.0,
+        "precipitation_probability": 75,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 1.7,
+        "precipitation_probability": 77,
+        "weathercode": 51
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 2.9,
+        "precipitation_probability": 80,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 3.5,
+        "precipitation_probability": 82,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 3.8,
+        "precipitation_probability": 80,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 1.3,
+        "precipitation_probability": 75,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": 2.6,
+        "precipitation_probability": 71,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": 2.2,
+        "precipitation_probability": 67,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": 2.6,
+        "precipitation_probability": 63,
+        "weathercode": 51
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": 3.6,
+        "precipitation_probability": 61,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 3.9,
+        "precipitation_probability": 64,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 4.3,
+        "precipitation_probability": 69,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 4.3,
+        "precipitation_probability": 75,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 2.1,
+        "precipitation_probability": 81,
+        "weathercode": 51
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 1.3,
+        "precipitation_probability": 88,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 2.2,
+        "precipitation_probability": 92,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 3.0,
+        "precipitation_probability": 93,
+        "weathercode": 51
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 1.9,
+        "precipitation_probability": 91,
+        "weathercode": 51
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 2.3,
+        "precipitation_probability": 88,
+        "weathercode": 51
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 3.7,
+        "precipitation_probability": 84,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": 3.5,
+        "precipitation_probability": 79,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": 3.2,
+        "precipitation_probability": 73,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": 3.3,
+        "precipitation_probability": 65,
+        "weathercode": 51
+      }
+    ]
+  },
+  "Warsaw": {
+    "country": "Poland",
+    "coordinate": {
+      "latitude": 52.2297,
+      "longitude": 21.0122
+    },
+    "current_weather": {
+      "temperature": -0.9,
+      "windspeed": 16.2,
+      "weathercode": 0,
+      "condition": "Clear sky",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": -0.8,
+        "precipitation_probability": 4,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": -1.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": -1.6,
+        "precipitation_probability": 0,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": -1.7,
+        "precipitation_probability": 1,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": -1.6,
+        "precipitation_probability": 2,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": -1.5,
+        "precipitation_probability": 2,
+        "weathercode": 51
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": -1.0,
+        "precipitation_probability": 1,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -1.2,
+        "precipitation_probability": 2,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -1.4,
+        "precipitation_probability": 5,
+        "weathercode": 1
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -1.7,
+        "precipitation_probability": 10,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -1.3,
+        "precipitation_probability": 14,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": -1.0,
+        "precipitation_probability": 16,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": -0.9,
+        "precipitation_probability": 17,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": -0.8,
+        "precipitation_probability": 16,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": -0.9,
+        "precipitation_probability": 12,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": -1.0,
+        "precipitation_probability": 6,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": -1.4,
+        "precipitation_probability": 2,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": -1.7,
+        "precipitation_probability": 1,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": -2.1,
+        "precipitation_probability": 1,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": -2.3,
+        "precipitation_probability": 2,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": -2.3,
+        "precipitation_probability": 3,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -2.2,
+        "precipitation_probability": 4,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -2.3,
+        "precipitation_probability": 4,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -2.6,
+        "precipitation_probability": 3,
+        "weathercode": 1
+      }
+    ]
+  },
+  "Lisbon": {
+    "country": "Portugal",
+    "coordinate": {
+      "latitude": 38.7223,
+      "longitude": -9.1393
+    },
+    "current_weather": {
+      "temperature": 13.2,
+      "windspeed": 12.5,
+      "weathercode": 80,
+      "condition": "Slight rain showers",
+      "time": "2026-01-03T23:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-03T00:00",
+        "temperature": 13.7,
+        "precipitation_probability": 85,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-03T01:00",
+        "temperature": 13.7,
+        "precipitation_probability": 95,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T02:00",
+        "temperature": 13.6,
+        "precipitation_probability": 85,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T03:00",
+        "temperature": 13.4,
+        "precipitation_probability": 85,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T04:00",
+        "temperature": 13.4,
+        "precipitation_probability": 78,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-03T05:00",
+        "temperature": 13.3,
+        "precipitation_probability": 75,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-03T06:00",
+        "temperature": 13.3,
+        "precipitation_probability": 73,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-03T07:00",
+        "temperature": 13.4,
+        "precipitation_probability": 93,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T08:00",
+        "temperature": 13.5,
+        "precipitation_probability": 95,
+        "weathercode": 95
+      },
+      {
+        "time": "2026-01-03T09:00",
+        "temperature": 13.7,
+        "precipitation_probability": 88,
+        "weathercode": 95
+      },
+      {
+        "time": "2026-01-03T10:00",
+        "temperature": 13.9,
+        "precipitation_probability": 80,
+        "weathercode": 95
+      },
+      {
+        "time": "2026-01-03T11:00",
+        "temperature": 14.3,
+        "precipitation_probability": 68,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T12:00",
+        "temperature": 14.7,
+        "precipitation_probability": 50,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T13:00",
+        "temperature": 15.0,
+        "precipitation_probability": 93,
+        "weathercode": 81
+      },
+      {
+        "time": "2026-01-03T14:00",
+        "temperature": 15.2,
+        "precipitation_probability": 98,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T15:00",
+        "temperature": 15.0,
+        "precipitation_probability": 80,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T16:00",
+        "temperature": 14.8,
+        "precipitation_probability": 60,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T17:00",
+        "temperature": 14.5,
+        "precipitation_probability": 33,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T18:00",
+        "temperature": 14.2,
+        "precipitation_probability": 13,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T19:00",
+        "temperature": 13.9,
+        "precipitation_probability": 13,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T20:00",
+        "temperature": 13.6,
+        "precipitation_probability": 10,
+        "weathercode": 80
+      },
+      {
+        "time": "2026-01-03T21:00",
+        "temperature": 13.4,
+        "precipitation_probability": 8,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-03T22:00",
+        "temperature": 13.3,
+        "precipitation_probability": 10,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-03T23:00",
+        "temperature": 13.2,
+        "precipitation_probability": 10,
+        "weathercode": 80
+      }
+    ]
+  },
+  "Bucharest": {
+    "country": "Romania",
+    "coordinate": {
+      "latitude": 44.4268,
+      "longitude": 26.1025
+    },
+    "current_weather": {
+      "temperature": 1.8,
+      "windspeed": 0.4,
+      "weathercode": 45,
+      "condition": "Fog",
+      "time": "2026-01-04T01:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 2.0,
+        "precipitation_probability": 53,
+        "weathercode": 53
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 1.9,
+        "precipitation_probability": 63,
+        "weathercode": 45
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 1.7,
+        "precipitation_probability": 35,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 1.3,
+        "precipitation_probability": 75,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 1.5,
+        "precipitation_probability": 95,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 1.6,
+        "precipitation_probability": 98,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 1.8,
+        "precipitation_probability": 100,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": 2.1,
+        "precipitation_probability": 100,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": 1.6,
+        "precipitation_probability": 65,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": 1.4,
+        "precipitation_probability": 40,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": 1.7,
+        "precipitation_probability": 20,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 2.2,
+        "precipitation_probability": 13,
+        "weathercode": 51
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 2.9,
+        "precipitation_probability": 5,
+        "weathercode": 45
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 3.3,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 3.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 3.8,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 3.8,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 3.6,
+        "precipitation_probability": 8,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 3.2,
+        "precipitation_probability": 10,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 3.1,
+        "precipitation_probability": 13,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 3.0,
+        "precipitation_probability": 5,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": 2.9,
+        "precipitation_probability": 18,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": 2.7,
+        "precipitation_probability": 33,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": 2.6,
+        "precipitation_probability": 40,
+        "weathercode": 61
+      }
+    ]
+  },
+  "Bratislava": {
+    "country": "Slovakia",
+    "coordinate": {
+      "latitude": 48.1486,
+      "longitude": 17.1077
+    },
+    "current_weather": {
+      "temperature": 0.6,
+      "windspeed": 4.7,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 0.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 0.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 0.8,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 0.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": -0.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": -0.2,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": -0.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -0.8,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -0.9,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -1.0,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -0.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 0.7,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 1.6,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 2.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 2.4,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 2.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 1.5,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 0.6,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 0.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": -0.3,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": -0.1,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -0.5,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -1.2,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -1.9,
+        "precipitation_probability": 0,
+        "weathercode": 0
+      }
+    ]
+  },
+  "Ljubljana": {
+    "country": "Slovenia",
+    "coordinate": {
+      "latitude": 46.0569,
+      "longitude": 14.5058
+    },
+    "current_weather": {
+      "temperature": 0.4,
+      "windspeed": 3.5,
+      "weathercode": 77,
+      "condition": "Snow grains",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 0.5,
+        "precipitation_probability": 100,
+        "weathercode": 77
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 0.5,
+        "precipitation_probability": 98,
+        "weathercode": 77
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 0.5,
+        "precipitation_probability": 98,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 0.3,
+        "precipitation_probability": 98,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 0.5,
+        "precipitation_probability": 100,
+        "weathercode": 61
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 0.4,
+        "precipitation_probability": 100,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 0.4,
+        "precipitation_probability": 98,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": 0.4,
+        "precipitation_probability": 88,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": 0.3,
+        "precipitation_probability": 75,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": 0.3,
+        "precipitation_probability": 45,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": 0.6,
+        "precipitation_probability": 18,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 1.0,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 1.2,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 1.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 1.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 1.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 1.2,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 0.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 0.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 0.2,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 0.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -0.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -0.3,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -0.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      }
+    ]
+  },
+  "Madrid": {
+    "country": "Spain",
+    "coordinate": {
+      "latitude": 40.4168,
+      "longitude": -3.7038
+    },
+    "current_weather": {
+      "temperature": 7.4,
+      "windspeed": 3.4,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": 7.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": 7.1,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": 6.6,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": 6.3,
+        "precipitation_probability": 3,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": 6.0,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": 5.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": 5.5,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": 5.7,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": 5.8,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": 5.8,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": 6.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": 7.4,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": 8.3,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": 9.4,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": 10.0,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": 10.3,
+        "precipitation_probability": 5,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": 10.4,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": 9.6,
+        "precipitation_probability": 0,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": 8.7,
+        "precipitation_probability": 3,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": 7.9,
+        "precipitation_probability": 10,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": 7.2,
+        "precipitation_probability": 18,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": 6.6,
+        "precipitation_probability": 38,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": 5.8,
+        "precipitation_probability": 45,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": 5.0,
+        "precipitation_probability": 43,
+        "weathercode": 3
+      }
+    ]
+  },
+  "Stockholm": {
+    "country": "Sweden",
+    "coordinate": {
+      "latitude": 59.3293,
+      "longitude": 18.0686
+    },
+    "current_weather": {
+      "temperature": -1.4,
+      "windspeed": 22.0,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-01-04T00:15"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-01-04T00:00",
+        "temperature": -1.3,
+        "precipitation_probability": 95,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T01:00",
+        "temperature": -1.5,
+        "precipitation_probability": 88,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T02:00",
+        "temperature": -1.8,
+        "precipitation_probability": 69,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T03:00",
+        "temperature": -2.1,
+        "precipitation_probability": 45,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T04:00",
+        "temperature": -2.3,
+        "precipitation_probability": 27,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T05:00",
+        "temperature": -2.6,
+        "precipitation_probability": 22,
+        "weathercode": 71
+      },
+      {
+        "time": "2026-01-04T06:00",
+        "temperature": -2.8,
+        "precipitation_probability": 23,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T07:00",
+        "temperature": -3.1,
+        "precipitation_probability": 25,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T08:00",
+        "temperature": -3.2,
+        "precipitation_probability": 26,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T09:00",
+        "temperature": -3.3,
+        "precipitation_probability": 29,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T10:00",
+        "temperature": -3.2,
+        "precipitation_probability": 29,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T11:00",
+        "temperature": -3.1,
+        "precipitation_probability": 27,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T12:00",
+        "temperature": -3.0,
+        "precipitation_probability": 22,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T13:00",
+        "temperature": -3.0,
+        "precipitation_probability": 18,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T14:00",
+        "temperature": -3.0,
+        "precipitation_probability": 13,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T15:00",
+        "temperature": -3.1,
+        "precipitation_probability": 8,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T16:00",
+        "temperature": -3.3,
+        "precipitation_probability": 4,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T17:00",
+        "temperature": -3.4,
+        "precipitation_probability": 2,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T18:00",
+        "temperature": -3.7,
+        "precipitation_probability": 2,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T19:00",
+        "temperature": -3.9,
+        "precipitation_probability": 2,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T20:00",
+        "temperature": -3.9,
+        "precipitation_probability": 1,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T21:00",
+        "temperature": -4.1,
+        "precipitation_probability": 1,
+        "weathercode": 3
+      },
+      {
+        "time": "2026-01-04T22:00",
+        "temperature": -4.3,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      },
+      {
+        "time": "2026-01-04T23:00",
+        "temperature": -4.6,
+        "precipitation_probability": 0,
+        "weathercode": 2
+      }
+    ]
+  }
+}
