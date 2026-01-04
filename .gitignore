@@ -1,0 +1,50 @@
+﻿# ============================================
+# NEVER COMMIT THESE FILES TO GIT!
+# ============================================
+
+# API Keys and Secrets
+*.env
+.env.local
+.env.production
+secrets.json
+config.json
+keys.txt
+*.key
+*.pem
+
+# AI/API Outputs (often contain API keys in responses)
+*_output.txt
+*_response.json
+*_api_result.*
+groq_output.txt
+openai_output.*
+
+# Jupyter Notebooks (contain outputs with secrets)
+*.ipynb
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+ehthumbs.db
+Thumbs.db
+
+# Backups
+*.bak
+*.backup
