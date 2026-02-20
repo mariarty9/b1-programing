@@ -1,0 +1,7 @@
+{"id": 1, "name": "Caitlyn Kiramman", "email": "piltover_sheriff@example.com"}
+{"id": 2, "name": "Vi Lanes", "email": "zaun4ever@example.com"}
+{"id": 3, "name": "Jayce Talis", "email": "new_hextech@example.com"}
+{"id": 4, "name": "Mel Medarda", "email": "mel_noxus@example.com"}
+{"id": 5, "name": "Ekko", "email": "misfits@example.com"}
+{"id": 6, "name": "Jinx", "email": "boom@example.com"}
+{"id": 7, "name": "Vander Lanes", "email": "the_last_drop_official@example.com"}
