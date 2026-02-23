@@ -1,0 +1,32 @@
+<!-- Week15/static/index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Manager</title>
+    <style>
+        body { font-family: sans-serif; padding: 2rem; }
+        #users { margin-top: 1rem; }
+        .user { border-bottom: 1px solid #eee; padding: 0.5rem 0; }
+    </style>
+</head>
+<body>
+    <h1>👤 User Management</h1>
+    <button id="load-users">Load Users</button>
+    <div id="users"></div>
+
+    <script>
+        document.getElementById('load-users').addEventListener('click', async () => {
+            const response = await fetch('/users');
+            const users = await response.json();
+            const usersDiv = document.getElementById('users');
+            usersDiv.innerHTML = ''; // Clear previous
+            users.forEach(user => {
+                const userEl = document.createElement('div');
+                userEl.className = 'user';
+                userEl.textContent = `${user.name} (${user.email})`;
+                usersDiv.appendChild(userEl);
+            });
+        });
+    </script>
+</body>
+</html>
